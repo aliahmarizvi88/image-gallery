@@ -13,7 +13,7 @@ function App() {
     const fetchImg = async () => {
       try {
         const res = await fetch(
-          `https://pixabay.com/api/?key=49750919-356afd2f14f2e4e0b3eed996f&q=${trem}&image_type=photo&pretty=true`
+          `https://pixabay.com/api/?key=YOUR_OWN_KEY=${trem}&image_type=photo&pretty=true`
         );
         const data = await res.json();
         setImages(data.hits);
