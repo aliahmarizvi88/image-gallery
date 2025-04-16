@@ -19,6 +19,6 @@ A sleek and responsive **Image Gallery App** built with **React.js** that fetche
 - **Vite**
 - **JavaScript (ES6+)**
 - **Pixabay API**
-- **CSS / TailwindCSS / Styled Components** (based on your choice)
+- **CSS / TailwindCSS / Styled Components**
 
 ---
